@@ -5,4 +5,4 @@ After answering the five questions he posed, we are asked to further analyze the
 
 Link to survey [here](https://obukofe.notion.site/obukofe/SQL-Survey-501f61a843ab4a60879e60601eedeaac)
 
-Link to my [documentation](https://github.com/imanjokko/Lagos-Metropolitan-BRT/tree/main/Documentation) to see what I did!
+Link to my [documentation](https://github.com/imanjokko/Lagos-Metropolitan-BRT/blob/main/Documentation/BRT_project_documentation.pdf) to see what I did!
