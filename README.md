@@ -20,7 +20,8 @@ Jane, the managing director of the Lagos Metropolitan BRT service is having a bi
 ![image](https://user-images.githubusercontent.com/113924978/223856602-dcc5ec24-bafa-4701-8d6c-8965efbf3fad.png)
 
 # Schema and Table Definition
-[Click here](https://github.com/imanjokko/Lagos-Metropolitan-BRT/blob/main/Schema%20and%20Table%20definitions.md) to see the process used for this
+[Click here](https://github.com/imanjokko/Lagos-Metropolitan-BRT/blob/main/Schema%20and%20Table%20definitions.md) to see the processes used for this
+
 --
 
 # Survery Questions
