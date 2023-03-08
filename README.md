@@ -21,6 +21,7 @@ Jane, the managing director of the Lagos Metropolitan BRT service is having a bi
 
 # Schema and Table Definition
 [Click here](https://github.com/imanjokko/Lagos-Metropolitan-BRT/blob/main/Schema%20and%20Table%20definitions.md) to see the process used for this
+--
 
 # Survery Questions
 1. 🎯 **Arrival Location Rankings**. Jane noticed that some arrival locations stand out more than the others and she intends to find out where her passengers head to the most. She needs a table of the top 5 arrival locations sorted in descending order. Can you help her with that?
