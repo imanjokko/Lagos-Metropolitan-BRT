@@ -41,4 +41,4 @@ Jane, the managing director of the Lagos Metropolitan BRT service is having a bi
 4. Drivers with the biggest buses (trip_capacity)
 5. 3 lowest performing drivers
 
-To see the answers to both the survery questions and the questions I came up with, [click here]()
+To see the answers to both the survery questions and the questions I came up with, click on [Solutions](https://github.com/imanjokko/Lagos-Metropolitan-BRT/blob/main/Solutions.md)
