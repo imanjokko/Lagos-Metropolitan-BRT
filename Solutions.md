@@ -16,7 +16,7 @@ Aruna|41
 Ketu|40
 Ajah|38
 
-For this, it was pretty straight forward, the data was in the trips table, so I used the COUNT function to gather the number of times each location appeared in the arrival_location column, and ordered it in descending order of the counts, then limited it by 5, to only show the 5 highest values.
+- For this, it was pretty straight forward, the data was in the trips table, so I used the COUNT function to gather the number of times each location appeared in the arrival_location column, and ordered it in descending order of the counts, then limited it by 5, to only show the 5 highest values.
 
 ---
 
