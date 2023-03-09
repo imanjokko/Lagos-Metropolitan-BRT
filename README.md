@@ -24,7 +24,7 @@ Jane, the managing director of the Lagos Metropolitan BRT service is having a bi
 
 ---
 
-# Survery Questions
+# Survey Questions
 1. 🎯 **Arrival Location Rankings**. Jane noticed that some arrival locations stand out more than the others and she intends to find out where her passengers head to the most. She needs a table of the top 5 arrival locations sorted in descending order. Can you help her with that?
 
 2. 🎯 **Top Performing Drivers**. Jane is keen on employee retention and she’s planning on rewarding her top drivers. She needs to know the top 10 performing drivers based on the number of trips they’ve handled. For this, it would be best if we had a table containing their full names, their NIN’s and the number of trips they’ve handled. Let’s help Jane make that work!
@@ -36,10 +36,10 @@ Jane, the managing director of the Lagos Metropolitan BRT service is having a bi
 5. 🎯 **Highest Issue Dates**. Jane has been impressed by your work so far but she needs one more thing. She wants to know the issue dates where her customers had the highest number of card issues for trips payment. She wants the list sorted by top 5 issue dates in descending order and also the number of cards issued. Let’s help her with that.
 
 # My Questions
-1. Number of vehicles in use, available, under maintenance and out of use
-2. Top 5 departure locations
-3. Drivers with licenses to be renewed within one year (current date is feb 14, 2023)
-4. Drivers with the biggest buses (trip_capacity)
-5. 3 lowest performing drivers
+1.🎯 Number of vehicles in use, available, under maintenance and out of use
+2.🎯 Top 5 departure locations
+3.🎯 Drivers with licenses to be renewed within one year (current date is feb 14, 2023)
+4.🎯 Drivers with the biggest buses (trip_capacity)
+5.🎯 3 lowest performing drivers
 
 To see the answers to both the survery questions and the questions I came up with, click on [Solutions](https://github.com/imanjokko/Lagos-Metropolitan-BRT/blob/main/Solutions.md)
